@@ -1,0 +1,674 @@
+canonical_identifier: bkk:krp/KR3er063/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er063/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫學見能
+  identifiers:
+    krp: KR3er063
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er063.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3er063_001-jc.yaml, hash: 'sha256:0e3c7ec692310340cc19672dd35af6b250218357183c88d370ce8f889f6f1f5e'}
+  - {seq: 2, filename: KR3er063_002-jc.yaml, hash: 'sha256:18992f07ef0f5d99d2ec0b791c22cca6ce12cadb5812361d9e5d2b6dd62df780'}
+  - {seq: 3, filename: KR3er063_003-jc.yaml, hash: 'sha256:ab184bed73b6cad6548aeb37db98fd448bad18920fa968f6f03013460c2c03c1'}
+  - {seq: 4, filename: KR3er063_004-jc.yaml, hash: 'sha256:26d07b5291288afed036236ed927af64037779ab54d7c28f232bc952b61877b9'}
+  - {seq: 5, filename: KR3er063_005-jc.yaml, hash: 'sha256:50f2f392877d0b9aad38b287f34f8daa552091bf7926c19c5453a00205af4589'}
+  - {seq: 6, filename: KR3er063_006-jc.yaml, hash: 'sha256:12c6035f4c0d90f6f9e4f40ee9b2d31a57cd442fa9c58acbd36118f48dd4a98e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3er063_001-jc.markers.yaml, hash: 'sha256:4f55082d17e220a25b43b9aae1f77af3e07fa1de97f7db78d357e608524c53c7'}
+  - {seq: 2, role: markers, filename: assets/KR3er063_002-jc.markers.yaml, hash: 'sha256:c865812d0a01c370394eebb9c23ba2d5450e1e260c914119cf13b3432e113f02'}
+  - {seq: 3, role: markers, filename: assets/KR3er063_003-jc.markers.yaml, hash: 'sha256:5433b8cddebd5af180d78c51b4e2773570af4cba51cdb5098027d49345d48055'}
+  - {seq: 4, role: markers, filename: assets/KR3er063_004-jc.markers.yaml, hash: 'sha256:ede337cbe90c8a22418c0ba6765cf5f3d7f661a4c022051e35ea22e4b494984b'}
+  - {seq: 5, role: markers, filename: assets/KR3er063_005-jc.markers.yaml, hash: 'sha256:57d4d6c10cf915c0d152881a9818ccbbbd37a6fe764736abadcdb0ba2a1ab148'}
+  - {seq: 6, role: markers, filename: assets/KR3er063_006-jc.markers.yaml, hash: 'sha256:61834afedb6af0546631c15957a769db0c608c8f6af473a27d050575a43dca98'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3er063_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 362
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er063_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 196
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er063_jc_000-d4.h1s1
+    span:
+    - body
+    - 196
+    - 577
+  label: 原敘
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5.h1s1
+    span:
+    - body
+    - 0
+    - 1425
+  label: 卷首
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5d2
+    span:
+    - body
+    - 2
+    - 1425
+  label: 診法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5.d2d2
+    span:
+    - body
+    - 4
+    - 146
+  label: 五臟
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5.d2d3
+    span:
+    - body
+    - 146
+    - 285
+  label: 六腑
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5.d2d4
+    span:
+    - body
+    - 285
+    - 565
+  label: 經氣
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5.d2d5
+    span:
+    - body
+    - 565
+    - 622
+  label: 望色
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5.d2d6
+    span:
+    - body
+    - 622
+    - 674
+  label: 聞聲
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5.d2d7
+    span:
+    - body
+    - 674
+    - 764
+  label: 問證
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er063_jc_NaN-d5.d2d8
+    span:
+    - body
+    - 764
+    - 1425
+  label: 切脈
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 11902
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6d2
+    span:
+    - body
+    - 2
+    - 11902
+  label: 證治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d2
+    span:
+    - body
+    - 4
+    - 881
+  label: 頭骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d3
+    span:
+    - body
+    - 881
+    - 1225
+  label: 兩耳
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d4
+    span:
+    - body
+    - 1225
+    - 1860
+  label: 眼目
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d5
+    span:
+    - body
+    - 1860
+    - 2546
+  label: 唇口
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d6
+    span:
+    - body
+    - 2546
+    - 3002
+  label: 鼻孔
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d7
+    span:
+    - body
+    - 3002
+    - 3401
+  label: 齒牙
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d8
+    span:
+    - body
+    - 3401
+    - 4010
+  label: 舌本
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d9
+    span:
+    - body
+    - 4010
+    - 4754
+  label: 咽喉
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d10
+    span:
+    - body
+    - 4754
+    - 5477
+  label: 胸前
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d11
+    span:
+    - body
+    - 5477
+    - 6200
+  label: 胸前
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d12
+    span:
+    - body
+    - 6200
+    - 6795
+  label: 小腹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d13
+    span:
+    - body
+    - 6795
+    - 7197
+  label: 脅肋
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d14
+    span:
+    - body
+    - 7197
+    - 7641
+  label: 背上
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d15
+    span:
+    - body
+    - 7641
+    - 8179
+  label: 腰中
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d16
+    span:
+    - body
+    - 8179
+    - 8758
+  label: 手臂
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d17
+    span:
+    - body
+    - 8758
+    - 9349
+  label: 腳腿
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d18
+    span:
+    - body
+    - 9349
+    - 9827
+  label: 前陰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d19
+    span:
+    - body
+    - 9827
+    - 10074
+  label: 後陰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d20
+    span:
+    - body
+    - 10074
+    - 11247
+  label: 大便
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er063_jc_001-d6.d2d21
+    span:
+    - body
+    - 11247
+    - 11902
+  label: 小便
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.h1s1
+    span:
+    - body
+    - 0
+    - 10272
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7d2
+    span:
+    - body
+    - 2
+    - 10272
+  label: 證治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d2
+    span:
+    - body
+    - 4
+    - 1224
+  label: 寒熱
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d3
+    span:
+    - body
+    - 1224
+    - 2228
+  label: 嘔吐
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d4
+    span:
+    - body
+    - 2228
+    - 3457
+  label: 咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d5
+    span:
+    - body
+    - 3457
+    - 4775
+  label: 失血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d6
+    span:
+    - body
+    - 4775
+    - 5016
+  label: 遺精
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d7
+    span:
+    - body
+    - 5016
+    - 5918
+  label: 言語
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d8
+    span:
+    - body
+    - 5918
+    - 6662
+  label: 心神
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d9
+    span:
+    - body
+    - 6662
+    - 6955
+  label: 斑黃
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d10
+    span:
+    - body
+    - 6955
+    - 7257
+  label: 出汗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d11
+    span:
+    - body
+    - 7257
+    - 7748
+  label: 腫脹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d12
+    span:
+    - body
+    - 7748
+    - 8582
+  label: 飲食
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d13
+    span:
+    - body
+    - 8582
+    - 8797
+  label: 起居
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d14
+    span:
+    - body
+    - 8797
+    - 8978
+  label: 倒僕
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d15
+    span:
+    - body
+    - 8978
+    - 9612
+  label: 掣動
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d16
+    span:
+    - body
+    - 9612
+    - 9903
+  label: 蟲蠱
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er063_jc_002-d7.d2d17
+    span:
+    - body
+    - 9903
+    - 10272
+  label: 鬼祟
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 4683
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8d2
+    span:
+    - body
+    - 2
+    - 4683
+  label: 證治
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8.d2d2
+    span:
+    - body
+    - 4
+    - 816
+  label: 婦人調經
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8.d2d3
+    span:
+    - body
+    - 816
+    - 1902
+  label: 婦人安胎
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8.d2d4
+    span:
+    - body
+    - 1902
+    - 2348
+  label: 婦人保產
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8.d2d5
+    span:
+    - body
+    - 2348
+    - 2626
+  label: 小兒外證
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8.d2d6
+    span:
+    - body
+    - 2626
+    - 3046
+  label: 小兒內證
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8.d2d7
+    span:
+    - body
+    - 3046
+    - 3948
+  label: 外科瘡證
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er063_jc_003-d8.d2d8
+    span:
+    - body
+    - 3948
+    - 4683
+  label: 刀傷跌打
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3er063_jc_004-d9.h1s1
+    span:
+    - body
+    - 0
+    - 772
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3er063_jc_004-d9d2
+    span:
+    - body
+    - 2
+    - 772
+  label: 附錄
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er063_jc_004-d9.d2d2
+    span:
+    - body
+    - 4
+    - 772
+  label: 救急
+  type: section
+  level: 3
+hash: sha256:080edc2a99ee25fce4b6b0e4c0225ad649b485a7d3925fae15d5ae902f0e8c1c
